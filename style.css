@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+img{
+    height: 300px;
+    width: 400px;
+}
+#you-light-up-my-life{
+    height:100%;
+    width: 100%;
+}
+ul{
+    background-color: black;
+}
+#home{
+    background-color: black;
+}
+html{
+    scroll-behavior: smooth;
+}
